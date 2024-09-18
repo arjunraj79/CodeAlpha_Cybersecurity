@@ -1,6 +1,11 @@
 # Basic Network Sniffer
 
 This project is a basic implementation of a network sniffer using Python. It captures incoming Ethernet frames and IPv4 packets, displaying essential information such as MAC addresses, protocol types, and IP addresses.
+## Demo
+![Demo Image](img1.png)
+![Demo Image](img2.png)
+![Demo Video](demo.web)
+
 
 ## Table of Contents
 - [Installation](#installation)
