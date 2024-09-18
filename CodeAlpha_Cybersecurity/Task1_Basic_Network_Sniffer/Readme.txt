@@ -1,3 +1,3 @@
 Requirements:
 Python 3.X 
-VSCode
+Ubuntu OS is required.
