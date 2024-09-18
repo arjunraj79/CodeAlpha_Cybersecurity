@@ -4,7 +4,7 @@ This project is a basic implementation of a network sniffer using Python. It cap
 ## Demo
 ![Demo Image](img1.png)
 ![Demo Image](img2.png)
-![Demo Video](demo.web)
+![Demo Video](demo.webm)
 
 
 ## Table of Contents
