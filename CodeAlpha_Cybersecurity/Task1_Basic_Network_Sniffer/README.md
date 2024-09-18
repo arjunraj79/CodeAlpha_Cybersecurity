@@ -6,7 +6,7 @@ This project is a basic implementation of a network sniffer using Python. It cap
 ![Demo Image](img2.png)
 
 ## Demo Video
-![Demo Video Representation](https://drive.google.com/file/d/1e9duVOaMCX1lLdgFFfqhpZt4ZycF7lj0/view?usp=sharing)
+[Watch the video]https://drive.google.com/file/d/1e9duVOaMCX1lLdgFFfqhpZt4ZycF7lj0/view?usp=drive_link)
 
 ## Table of Contents
 - [Installation](#installation)
