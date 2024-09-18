@@ -1,6 +1,12 @@
 # Network Intrusion Detection System (NIDS) Using Snort
 
 This project demonstrates how to set up a Network Intrusion Detection System (NIDS) using Snort, an open-source network intrusion detection system capable of real-time traffic analysis and packet logging.
+## Example Output
+
+Here is an example of Snort’s output:
+
+![Example Output](output.png)
+
 
 ## Table of Contents
 
