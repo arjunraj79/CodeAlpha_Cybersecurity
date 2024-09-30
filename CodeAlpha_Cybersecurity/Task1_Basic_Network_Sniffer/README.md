@@ -11,8 +11,6 @@ This project is a basic implementation of a network sniffer using Python. It cap
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [How it Works](#how-it-works)
 
 ## Installation
 
