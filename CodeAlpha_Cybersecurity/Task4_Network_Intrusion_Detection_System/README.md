@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS) Using Snort
+# Network Intrusion Detection System (NIDS) Using Yara
 
 This project demonstrates how to set up a Network Intrusion Detection System (NIDS) using Snort, an open-source network intrusion detection system capable of real-time traffic analysis and packet logging.
 ## Example Output
